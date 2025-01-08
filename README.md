@@ -7,4 +7,4 @@ The SmartGlove is a prototype pressure sensing glove aimed at helping physiother
 ## The SmartGlove UI
 Features include real-time data visualisation, multi-client sync and responsive design.
 
-<img src="https://github.com/user-attachments/assets/b8bc4dc8-5cf6-4e12-80e0-017bbdb6bb66" width="600" >
+<img src="https://github.com/user-attachments/assets/0c16e992-e704-4e12-a623-818330323dc2" width="600" >
